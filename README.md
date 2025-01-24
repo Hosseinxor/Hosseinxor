@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Hossein 👋  
 
-<!--
-**Hosseinxor/Hosseinxor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me  
+I’m a web designer and developer with a passion for creating beautiful and functional user interfaces.  
 
-Here are some ideas to get you started:
+🛠 Skills  
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP, Python, C#  
+- Tools: Photoshop, Figma  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 What I’m working on  
+- Building awesome projects with innovative designs.  
+- Exploring new technologies to improve my skills.  
+
+📈 My GitHub Stats  
+![Hosseinxor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosseinxor&show_icons=true&theme=radical)  
+
+📫 How to reach me  
+- Email: [your-email@example.com](mailto:hossein.85fallah@gmail.com)  
+- Instagram: [@Hosseinxor](https://instagram.com/Hosseinxor)  
+
+⚡ Fun Fact  
+I love learning and teaching coding, and I enjoy poetry in my free time!
