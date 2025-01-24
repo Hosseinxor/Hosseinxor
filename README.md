@@ -16,7 +16,7 @@ I’m a web designer and developer with a passion for creating beautiful and fun
 ![Hosseinxor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosseinxor&show_icons=true&theme=radical)  
 
 📫 How to reach me  
-- Email: [your-email@example.com](mailto:hossein.85fallah@gmail.com)  
+- Email: [hossein.85fallah@gmail.com](mailto:hossein.85fallah@gmail.com)  
 - Instagram: [@Hosseinxor](https://instagram.com/Hosseinxor)  
 
 ⚡ Fun Fact  
